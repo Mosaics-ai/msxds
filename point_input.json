@@ -1,0 +1,13 @@
+{
+    "dataset" : "superstore_formatted_withTarget.csv",
+    "binning" : {
+        "columns dont bin" : [
+            "order_date"
+        ]
+    },
+    "datepart extractor" : {
+        "columns to extract" : [
+            "order_date"
+        ]
+    }
+}

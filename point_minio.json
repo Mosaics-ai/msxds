@@ -1,0 +1,9 @@
+{
+    "client info" : {
+        "endpoint" : "minio.mosaics.ai",
+        "access_key" : "miniominio",
+        "secret_key" : "miniominio",
+        "secure" : true
+    },
+    "schema" : "mosaicsai-dev"
+}
